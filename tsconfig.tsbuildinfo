@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/agent/GenerativeRenderer.tsx","./src/agent/library-extra.tsx","./src/agent/library.tsx","./src/agent/mockAgent.ts","./src/agent/types.ts"],"version":"5.9.3"}
